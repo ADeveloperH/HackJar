@@ -1,0 +1,3 @@
+include ':firebasehack'
+include ':app'
+rootProject.name = "HackJar"
